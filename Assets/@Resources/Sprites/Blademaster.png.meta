@@ -1,0 +1,1138 @@
+fileFormatVersion: 2
+guid: 864bfda388004d7468cc9e0853eed24d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blademaster_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 258
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1b4eb0714a1af4daa0d8b6913a65b7
+      internalID: -1435917022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 258
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7961f519027ab64dae48c31a9bdaba1
+      internalID: 870451494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 258
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aea9f6af28db2040b3ddbf2793580dc
+      internalID: -576096960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 258
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925beb6a8af6adb4d94cd4446702c62e
+      internalID: 1040258882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 258
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88e519f47a4319438af25366b78d3f0
+      internalID: 772134970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 258
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1cdb32868f66046a8ec5423400e33c
+      internalID: 2062108456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 258
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a6bcd9fae50704499191906bf16f7f
+      internalID: 452291132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_7
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 258
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53aff7ce96e8fe34793e8504fad816f1
+      internalID: 786680332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 194
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d283192a6e41944add798829663114
+      internalID: -298362423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 194
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da3dc2115e827142ac8bccd7e3ce4c3
+      internalID: 914051969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 194
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9660b46b36f45004a85a21e8dc7f18ce
+      internalID: 1821976809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 194
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a4abf3836bceb44b8af80e95f6fe5e
+      internalID: -555790087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_12
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 194
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fe618264aa31c4f87f9d323d68f30a
+      internalID: -243326621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 194
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b505a078d4a564791b367804323cd4
+      internalID: -592859436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_14
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 194
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b453e29e10d95234e809b729b4e1a837
+      internalID: -1201445805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_15
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 194
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e613f59cdcea06a40a7b29b864307ccc
+      internalID: -1089643915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 130
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cc8cc1e64feea4bbf513bdbef0cb93
+      internalID: 2015653749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 130
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbabd4c5f9045b64aa32af004358d90a
+      internalID: 234209270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_18
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 130
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456363606e4c7f3469f17511d83764a3
+      internalID: -693073615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 131
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb606ddd5220c07499c1b2d4c7ce19e0
+      internalID: -714061216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_20
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 130
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2334ccbb60623c14eae5690a455e317d
+      internalID: 1416783966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_21
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 130
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a9cff473045e34299c4f739b2c9de7
+      internalID: -204455212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_22
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 130
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f19cafc2ce5c024e8874746684e938f
+      internalID: -435754301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_23
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 130
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51db14488c0aa24ebe61234008b5a59
+      internalID: -157355161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 66
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807f73d860d0ab747877c52623a69679
+      internalID: 534954863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 66
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26899438efd91ff4a8de8700a17498f1
+      internalID: 642980028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 66
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212e3d48e9bd42f49aad0b08ea45ad56
+      internalID: 1738185415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_27
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 66
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e44a9263d10cd40b3f35443001683d
+      internalID: 1957957866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 66
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2778ee4f236e8843b2a33b33372f929
+      internalID: 1398151393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 66
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2f21b0e3f5e7d448dedaba635f47c2
+      internalID: 566569172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_30
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 66
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd84f7d2a706d3a4695dd62f67525053
+      internalID: 478037963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_31
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 66
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba974fe271631940a9b8b58d8561aa6
+      internalID: -980888192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blademaster_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1a5ffcc4450ca49a516b362ab5ee8f
+      internalID: -1196774821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -242, y: -157}
+      - {x: -237, y: -159}
+      - {x: -206, y: -159}
+      - {x: -206, y: -121}
+      - {x: -209, y: -107}
+      - {x: -238, y: -107}
+      - {x: -242, y: -118}
+    - - {x: -212, y: -46}
+      - {x: -220, y: -46}
+      - {x: -222, y: -47}
+      - {x: -224, y: -55}
+      - {x: -241, y: -82}
+      - {x: -242, y: -85}
+      - {x: -242, y: -96}
+      - {x: -214, y: -96}
+      - {x: -200, y: -87}
+      - {x: -200, y: -61}
+      - {x: -203, y: -54}
+    - - {x: -158, y: -46}
+      - {x: -178, y: -68}
+      - {x: -178, y: -96}
+      - {x: -152, y: -96}
+      - {x: -136, y: -87}
+      - {x: -136, y: -62}
+      - {x: -145, y: -46}
+    - - {x: -94, y: -46}
+      - {x: -114, y: -75}
+      - {x: -114, y: -96}
+      - {x: -88, y: -96}
+      - {x: -72, y: -77}
+      - {x: -72, y: -57}
+      - {x: -79, y: -46}
+    - - {x: -35, y: -43}
+      - {x: -42, y: -43}
+      - {x: -49, y: -58}
+      - {x: -49, y: -86}
+      - {x: -42, y: -96}
+      - {x: -17, y: -96}
+      - {x: -15, y: -95}
+      - {x: -15, y: -65}
+      - {x: -23, y: -50}
+    - - {x: 14, y: -61}
+      - {x: 14, y: -96}
+      - {x: 46, y: -96}
+      - {x: 49, y: -89}
+      - {x: 49, y: -63}
+      - {x: 39, y: -45}
+      - {x: 32, y: -43}
+      - {x: 23, y: -43}
+      - {x: 16, y: -51}
+    - - {x: 80, y: -43}
+      - {x: 78, y: -45}
+      - {x: 78, y: -85}
+      - {x: 86, y: -96}
+      - {x: 109, y: -96}
+      - {x: 113, y: -94}
+      - {x: 113, y: -55}
+      - {x: 101, y: -43}
+    - - {x: 180, y: -53}
+      - {x: 170, y: -46}
+      - {x: 157, y: -46}
+      - {x: 143, y: -76}
+      - {x: 143, y: -96}
+      - {x: 160, y: -96}
+      - {x: 179, y: -86}
+      - {x: 184, y: -79}
+      - {x: 184, y: -61}
+    - - {x: 208, y: -61}
+      - {x: 208, y: -96}
+      - {x: 240, y: -96}
+      - {x: 247, y: -93}
+      - {x: 247, y: -55}
+      - {x: 245, y: -44}
+      - {x: 219, y: -44}
+      - {x: 209, y: -52}
+    - - {x: -218, y: 19}
+      - {x: -221, y: 18}
+      - {x: -245, y: -2}
+      - {x: -245, y: -30}
+      - {x: -244, y: -32}
+      - {x: -207, y: -32}
+      - {x: -207, y: 16}
+      - {x: -213, y: 19}
+    - - {x: -154, y: 18}
+      - {x: -157, y: 17}
+      - {x: -177, y: -9}
+      - {x: -177, y: -26}
+      - {x: -175, y: -32}
+      - {x: -148, y: -32}
+      - {x: -142, y: -28}
+      - {x: -142, y: 10}
+      - {x: -150, y: 18}
+    - - {x: -103, y: -32}
+      - {x: -100, y: -32}
+      - {x: -72, y: -14}
+      - {x: -72, y: -3}
+      - {x: -74, y: 10}
+      - {x: -85, y: 19}
+      - {x: -91, y: 19}
+      - {x: -93, y: 18}
+      - {x: -95, y: 13}
+      - {x: -108, y: -9}
+      - {x: -112, y: -25}
+      - {x: -112, y: -30}
+      - {x: -109, y: -32}
+      - {x: -106, y: -32}
+      - {x: -104, y: -30}
+      - {x: -104, y: -28}
+      - {x: -104, y: -29}
+    - - {x: 30, y: 20}
+      - {x: 17, y: 16}
+      - {x: 15, y: -2}
+      - {x: 15, y: -32}
+      - {x: 50, y: -32}
+      - {x: 54, y: -13}
+      - {x: 54, y: 5}
+      - {x: 45, y: 20}
+    - - {x: 113, y: -31}
+      - {x: 111, y: -27}
+      - {x: 108, y: -23}
+      - {x: 107, y: -16}
+      - {x: 110, y: -18}
+      - {x: 113, y: -16}
+      - {x: 115, y: -12}
+      - {x: 115, y: 6}
+      - {x: 101, y: 22}
+      - {x: 91, y: 22}
+      - {x: 79, y: -23}
+      - {x: 79, y: -32}
+      - {x: 86, y: -32}
+      - {x: 88, y: -30}
+      - {x: 94, y: -32}
+      - {x: 110, y: -32}
+    - - {x: 155, y: 15}
+      - {x: 138, y: 15}
+      - {x: 138, y: -32}
+      - {x: 171, y: -32}
+      - {x: 171, y: -14}
+      - {x: 169, y: 6}
+    - - {x: 215, y: 15}
+      - {x: 204, y: 15}
+      - {x: 203, y: 14}
+      - {x: 203, y: -32}
+      - {x: 235, y: -32}
+      - {x: 235, y: 3}
+      - {x: 223, y: 14}
+    - - {x: -24, y: 19}
+      - {x: -27, y: 20}
+      - {x: -30, y: 20}
+      - {x: -31, y: 18}
+      - {x: -34, y: 10}
+      - {x: -51, y: -15}
+      - {x: -51, y: -31}
+      - {x: -22, y: -31}
+      - {x: -8, y: -23}
+      - {x: -8, y: 3}
+    - - {x: -221, y: 84}
+      - {x: -234, y: 84}
+      - {x: -241, y: 55}
+      - {x: -241, y: 32}
+      - {x: -205, y: 32}
+      - {x: -201, y: 45}
+      - {x: -201, y: 66}
+    - - {x: -169, y: 84}
+      - {x: -175, y: 76}
+      - {x: -177, y: 61}
+      - {x: -177, y: 32}
+      - {x: -142, y: 32}
+      - {x: -137, y: 46}
+      - {x: -137, y: 66}
+      - {x: -151, y: 84}
+    - - {x: -79, y: 33}
+      - {x: -73, y: 48}
+      - {x: -73, y: 67}
+      - {x: -89, y: 85}
+      - {x: -106, y: 85}
+      - {x: -113, y: 53}
+      - {x: -113, y: 32}
+      - {x: -106, y: 32}
+      - {x: -104, y: 34}
+      - {x: -99, y: 32}
+      - {x: -83, y: 32}
+    - - {x: -43, y: 85}
+      - {x: -49, y: 53}
+      - {x: -49, y: 32}
+      - {x: -10, y: 32}
+      - {x: -10, y: 79}
+      - {x: -23, y: 85}
+    - - {x: 33, y: 84}
+      - {x: 10, y: 61}
+      - {x: 10, y: 34}
+      - {x: 11, y: 32}
+      - {x: 56, y: 32}
+      - {x: 56, y: 80}
+      - {x: 48, y: 84}
+    - - {x: 99, y: 83}
+      - {x: 96, y: 82}
+      - {x: 84, y: 75}
+      - {x: 80, y: 55}
+      - {x: 80, y: 32}
+      - {x: 120, y: 32}
+      - {x: 120, y: 83}
+    - - {x: 145, y: 32}
+      - {x: 161, y: 32}
+      - {x: 179, y: 42}
+      - {x: 179, y: 68}
+      - {x: 177, y: 78}
+      - {x: 171, y: 83}
+      - {x: 158, y: 83}
+      - {x: 145, y: 61}
+    - - {x: 227, y: 83}
+      - {x: 206, y: 61}
+      - {x: 206, y: 32}
+      - {x: 240, y: 32}
+      - {x: 241, y: 34}
+      - {x: 241, y: 83}
+    - - {x: -239, y: 149}
+      - {x: -241, y: 127}
+      - {x: -241, y: 96}
+      - {x: -203, y: 96}
+      - {x: -203, y: 146}
+      - {x: -211, y: 149}
+    - - {x: -171, y: 149}
+      - {x: -177, y: 117}
+      - {x: -177, y: 96}
+      - {x: -139, y: 96}
+      - {x: -139, y: 136}
+      - {x: -156, y: 149}
+    - - {x: -90, y: 149}
+      - {x: -107, y: 149}
+      - {x: -112, y: 109}
+      - {x: -113, y: 98}
+      - {x: -113, y: 96}
+      - {x: -78, y: 96}
+      - {x: -75, y: 111}
+      - {x: -75, y: 133}
+    - - {x: -26, y: 149}
+      - {x: -43, y: 149}
+      - {x: -48, y: 109}
+      - {x: -49, y: 98}
+      - {x: -49, y: 96}
+      - {x: -14, y: 96}
+      - {x: -11, y: 111}
+      - {x: -11, y: 133}
+    - - {x: 34, y: 148}
+      - {x: 27, y: 148}
+      - {x: 19, y: 141}
+      - {x: 15, y: 117}
+      - {x: 15, y: 96}
+      - {x: 53, y: 96}
+      - {x: 53, y: 140}
+      - {x: 48, y: 145}
+    - - {x: 81, y: 148}
+      - {x: 79, y: 128}
+      - {x: 79, y: 96}
+      - {x: 117, y: 96}
+      - {x: 117, y: 134}
+      - {x: 103, y: 148}
+    - - {x: 150, y: 148}
+      - {x: 143, y: 118}
+      - {x: 143, y: 96}
+      - {x: 181, y: 96}
+      - {x: 183, y: 105}
+      - {x: 183, y: 135}
+      - {x: 167, y: 148}
+    - - {x: 214, y: 148}
+      - {x: 207, y: 118}
+      - {x: 207, y: 96}
+      - {x: 245, y: 96}
+      - {x: 247, y: 105}
+      - {x: 247, y: 135}
+      - {x: 231, y: 148}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Blademaster_0: -1435917022
+      Blademaster_1: 870451494
+      Blademaster_10: 1821976809
+      Blademaster_11: -555790087
+      Blademaster_12: -243326621
+      Blademaster_13: -592859436
+      Blademaster_14: -1201445805
+      Blademaster_15: -1089643915
+      Blademaster_16: 2015653749
+      Blademaster_17: 234209270
+      Blademaster_18: -693073615
+      Blademaster_19: -714061216
+      Blademaster_2: -576096960
+      Blademaster_20: 1416783966
+      Blademaster_21: -204455212
+      Blademaster_22: -435754301
+      Blademaster_23: -157355161
+      Blademaster_24: 534954863
+      Blademaster_25: 642980028
+      Blademaster_26: 1738185415
+      Blademaster_27: 1957957866
+      Blademaster_28: 1398151393
+      Blademaster_29: 566569172
+      Blademaster_3: 1040258882
+      Blademaster_30: 478037963
+      Blademaster_31: -980888192
+      Blademaster_32: -1196774821
+      Blademaster_4: 772134970
+      Blademaster_5: 2062108456
+      Blademaster_6: 452291132
+      Blademaster_7: 786680332
+      Blademaster_8: -298362423
+      Blademaster_9: 914051969
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
