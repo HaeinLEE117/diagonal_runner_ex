@@ -8,8 +8,8 @@ public class LoopMap : MonoBehaviour
     public GameObject Track;
     public float moveSpeed = 5f;
 
-    [SerializeField]private float maxXPosition = 32f;
-    [SerializeField]private Vector3 startPosition = new Vector3(-32f, 0f, 0f);
+    private float maxXPosition = 16f;
+    private Vector3 startPosition = new Vector3(-16f, 0f, 0f);
 
     void Update()
     {

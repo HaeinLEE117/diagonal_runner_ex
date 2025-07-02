@@ -5,31 +5,30 @@ using UnityEngine.Serialization;
 
 public class LoopHurdle : MonoBehaviour
 {
-    public GameObject Hurdle;
     public float moveSpeed = 5f;
 
     [SerializeField]private float maxXPosition = 16f;
     private Vector2[] startPositions =
     {
-        new Vector2(-27.62f, 22.95f),
-        new Vector2(-26.735f, 23.378f),
-        new Vector2(-26.14f, 24.09f),
-        new Vector2(-25.47f, 24.73f),
-        new Vector2(-24.04f, 25.32f),
-        new Vector2(-23.96f, 25.78f),
+        new Vector2(-14.49f, 9.51f),
+        new Vector2(-13.104f, 10.749f),
+        new Vector2(-13.8f, 10.14f),
+        new Vector2(-12.456f, 11.358f),
+        new Vector2(-11.778f, 11.987f),
+        new Vector2(-11.109f, 12.596f),
     };
 
     void Update()
     {
         float moveOffset = moveSpeed * Time.deltaTime;
 
-        Hurdle.transform.localPosition = new Vector3(
-            Hurdle.transform.localPosition.x + moveOffset, 
-            Hurdle.transform.localPosition.y - moveOffset, 
-            Hurdle.transform.localPosition.z
+        transform.localPosition = new Vector3(
+            transform.localPosition.x + moveOffset, 
+            transform.localPosition.y - moveOffset, 
+            transform.localPosition.z
         );
         
-        if (Hurdle.transform.localPosition.x >= maxXPosition)
+        if (transform.localPosition.x >= maxXPosition)
         {
             ResetHurdle();
         }
@@ -38,9 +37,9 @@ public class LoopHurdle : MonoBehaviour
     void ResetHurdle()
     {
         int positionIndex = Random.Range(0, startPositions.Length);
-        int randOffset = Random.Range(0, 3);
+        int randOffset = Random.Range(0, 9);
         
-        Hurdle.transform.localPosition =  new Vector3(startPositions[positionIndex].x + randOffset ,startPositions[positionIndex].y - randOffset,0);
+        transform.localPosition =  new Vector3(startPositions[positionIndex].x + randOffset ,startPositions[positionIndex].y - randOffset,0);
         
     }
 }
