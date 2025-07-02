@@ -6,7 +6,7 @@ using UnityEngine.Serialization;
 public class LoopHurdle : MonoBehaviour
 {
     public GameObject Hurdle;
-    public float pipeSpeed = 5f;
+    public float moveSpeed = 5f;
 
     [SerializeField]private float maxXPosition = 16f;
     private Vector2[] startPositions =
@@ -21,7 +21,7 @@ public class LoopHurdle : MonoBehaviour
 
     void Update()
     {
-        float moveOffset = pipeSpeed * Time.deltaTime;
+        float moveOffset = moveSpeed * Time.deltaTime;
 
         Hurdle.transform.localPosition = new Vector3(
             Hurdle.transform.localPosition.x + moveOffset, 
